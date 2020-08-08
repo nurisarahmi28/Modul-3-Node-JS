@@ -1,0 +1,39 @@
+.css {
+    width: 300px;
+    margin: 0 auto;
+    font-family: Tahoma, Geneva, sans-serif;
+}
+
+.css h1 {
+    text-align: center;
+    color: #cdb30c;
+    font-size: 24px;
+    padding: 20px 0 20px 0;
+}
+
+.css a {
+    text-align: center;
+    color: rgb(0, 68, 225);
+    font-size: 14px;
+}
+
+.css input[type='text'],
+.css input[type='password'],
+.css input[type='email'] {
+    width: 100%;
+    padding: 15px;
+    border: 1px solid #dddddd;
+    margin-bottom: 15px;
+    box-sizing: border-box;
+}
+
+.css input[type='submit'] {
+    width: 100%;
+    padding: 15px;
+    background-color: #93b5e1;
+    border: 0;
+    box-sizing: border-box;
+    cursor: pointer;
+    font-weight: bold;
+    color: #ffffff;
+}
